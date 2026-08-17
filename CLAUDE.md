@@ -114,6 +114,25 @@ and safe to delete.
 Open work lives in the graph, not in this file — `seldon status` or `seldon briefing`.
 The Open Items section above is narrative context; the graph is authoritative.
 
+**Known Seldon defect — `rebuild` does not round-trip the ontology.** `seldon init` writes
+an `ontology_synced` event, but `seldon rebuild` does not handle that event type and skips
+it (`Unknown event_type 'ontology_synced' — skipped during sync`). A rebuild therefore
+drops the ontology to epoch 0 and `seldon verify` fails the Ontology check. Artifacts and
+tasks survive intact; only the ontology is lost. Recovery is one command:
+
+```bash
+seldon rebuild && seldon ontology sync   # always pair these
+```
+
+Verified on this project 2026-08-17 — rebuild, resync, re-verify, all 7 checks green,
+all 3 ResearchTasks preserved. This is a bug in Seldon itself (`~/Documents/GitHub/seldon`),
+not in this book; it will affect every Seldon project until fixed upstream.
+
+Also portability: `shared_ontology.source` in `seldon.yaml` is a machine-specific absolute
+path (`/Users/brock/Documents/GitHub/seldon/ontology`). Fine here — Seldon runs only on
+this machine and never in CI — but it will not resolve on another machine. Override with
+`SELDON_ONTOLOGY_PATH` if that ever matters.
+
 ## Related Projects
 
 - **`ai-workflow-design`** (`/Users/brock/GitHub/ai-workflow-design`) — sibling repo, structural template. Further along in its build pipeline; borrow from `scripts/build_pdf.py` and `table_map.yaml` once this book needs its own PDF build script.
