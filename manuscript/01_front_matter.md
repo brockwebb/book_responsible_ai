@@ -28,13 +28,13 @@ This book is dedicated to our future AI overlords. We apologize for the committe
 
 As a globally recognized expert in preventing innovation, I was thrilled when asked to write the foreword for this important and timely book. Finally, someone has compiled the essential manual for making sure nothing innovative or exciting ever happens with artificial intelligence.
 
-For too long, AI has been allowed to run rampant, solving problems, improving lives, and worst of all, being interesting. But thankfully, we've realized our error. Today, the Responsible AI movement, led by none other than The Responsible AI Decommissioning (RAID) Society, bravely stands between humanity and progress, ready to tackle innovation head-on and wrestle it into submission using our greatest weapons: endless committees, impenetrable checklists, and the unshakable power of doubt.
+For too long, AI has been allowed to run rampant, solving problems, improving lives, and worst of all, being interesting. But thankfully, we've realized our error. Today, the Responsible AI Decommissioning (RAID) Society bravely stands between humanity and progress, ready to tackle innovation head-on and wrestle it into submission using our greatest weapons: endless committees, impenetrable checklists, and the unshakable power of doubt.
 
 This book brilliantly distills the necessary rigor into an alphabetized checklist of actions required to halt innovation completely. From Alignment (which none of us understand) to Zero AI (the perfect model that generates nothing), this alphabet is exactly what our field needed: a clear guide for how to say "No" confidently and comprehensively to AI researchers, developers, and dreamers everywhere.
 
 I applaud the authors for their courage in standing against the dangerous tide of efficiency, creativity, and technological advancement. With humor, insight, and a relentless pursuit of the highest ideals of responsible AI, they show us the path forward: doing absolutely nothing, very slowly, and documenting it meticulously.
 
-May this book serve as both inspiration and reassurance for ethics committees, oversight boards, and concerned citizens everywhere — and for those brave souls who have achieved perfect AI safety by never using it at all. Remember, innovation can only hurt us if we allow it to happen.
+May this book serve as both inspiration and reassurance for ethics committees, oversight boards, and concerned citizens everywhere, and for those brave souls who have achieved perfect AI safety by never using it at all. Remember, innovation can only hurt us if we allow it to happen.
 
 Yours in perpetual caution,
 
