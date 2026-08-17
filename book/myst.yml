@@ -1,0 +1,23 @@
+version: 1
+project:
+  title: 'The Overresponsible AI Handbook'
+  subtitle: 'An Alphabetical Guide to Doing Nothing, Responsibly'
+  authors:
+    - name: Brock Webb
+  github: brockwebb/book_responsible_ai
+  jupyter: false
+  exports:
+    - format: typst
+      template: plain_typst_book
+      output: exports/overresponsible-ai-handbook.pdf
+      cover: images/cover.png
+  toc:
+    - file: cover.md
+    - file: front-matter.md
+    - file: alphabet.md
+    - file: back-matter.md
+    - file: coloring-pages.md
+site:
+  options:
+    folders: true
+  template: book-theme
