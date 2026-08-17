@@ -84,6 +84,36 @@ means changing both.
 - **Version drift:** local `myst` is v1.8.2; CI runs `npm install -g mystmd`, i.e. latest (v1.10.1
   as of 2026-08-17). A build that passes locally is not proof CI passes. Check the Actions tab.
 
+## Seldon (config control)
+
+This project is Seldon-managed as of 2026-08-17. Run `seldon go` at the start of any
+session for the full behavioral contract; `seldon briefing` for open tasks.
+
+| | |
+|---|---|
+| Config | `seldon.yaml` (tracked) |
+| Event log | `seldon_events.jsonl` (tracked — **source of truth**, `seldon rebuild` replays it into Neo4j) |
+| Neo4j database | `seldon-book-responsible-ai` at `bolt://localhost:7687` |
+| Session state | `.seldon/` (gitignored) |
+| Template | `blank` — not `paper`; this book registers no research results |
+| Shared ontology | read-only from `/Users/brock/Documents/GitHub/seldon/ontology` (epoch 3, 105 terms) |
+
+**Neo4j must be running** (Neo4j Desktop, Enterprise — per-project databases need it).
+The database name comes from `project.slug` in `seldon.yaml`, *not* from `$NEO4J_DB` —
+so a `NEO4J_DB=wintermute-intake` in the shell environment does not leak into this project.
+
+Registered artifacts: the 5 `book/*.md` content files, as `PaperSection`. `paths.book:
+book/` is what makes `book/` the content root — it is the one path key Seldon code
+actually reads (via `get_content_dir()`); the others in `seldon.yaml` are documentation.
+
+**After editing any `book/*.md`, run `seldon verify`** — it checks file hashes against the
+graph and will report drift. `seldon verify --fix` registers new files and re-syncs hashes.
+Verify also regenerates `keyword_index.md` at the repo root; it is gitignored, expected,
+and safe to delete.
+
+Open work lives in the graph, not in this file — `seldon status` or `seldon briefing`.
+The Open Items section above is narrative context; the graph is authoritative.
+
 ## Related Projects
 
 - **`ai-workflow-design`** (`/Users/brock/GitHub/ai-workflow-design`) — sibling repo, structural template. Further along in its build pipeline; borrow from `scripts/build_pdf.py` and `table_map.yaml` once this book needs its own PDF build script.
