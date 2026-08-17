@@ -6,6 +6,8 @@
 
 © 2025 Brock Webb. Licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
+This edition: DOI 10.5281/zenodo.21983981 (https://doi.org/10.5281/zenodo.21983981).
+
 You are free to share and adapt this work, including commercially, provided you give appropriate credit, link to the license, and indicate if changes were made.
 
 ---

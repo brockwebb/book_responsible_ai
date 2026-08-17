@@ -53,8 +53,15 @@ Brock Webb.
 
 ## License
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21983981.svg)](https://doi.org/10.5281/zenodo.21983981)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 CC BY 4.0. See [LICENSE](LICENSE).
 
-© 2026 Brock Webb. You may share and adapt this work, including commercially, provided you give appropriate credit, link to the license, and indicate if changes were made.
+© 2025 Brock Webb. You may share and adapt this work, including commercially, provided you give appropriate credit, link to the license, and indicate if changes were made.
+
+## Citation
+
+> Webb, Brock. *The Overresponsible AI Handbook: An Alphabetical Guide to Doing Nothing, Responsibly*. 2026. DOI: 10.5281/zenodo.21983981.
+
+Or use GitHub's "Cite this repository" (from `CITATION.cff`).

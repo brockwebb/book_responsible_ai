@@ -21,5 +21,4 @@ abstract: >-
   illustrated in April 2025. Twenty-six letters, each pairing a koan, a
   full-page illustration, and a one-line definition, plus twenty-six coloring
   pages.
-# TODO(doi-backfill): uncomment once the Zenodo DOI is minted
-# doi: 10.5281/zenodo.XXXXXXX
+doi: 10.5281/zenodo.21983981

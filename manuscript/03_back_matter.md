@@ -86,4 +86,6 @@ The illustrations were generated with OpenAI's ChatGPT image tooling of that era
 
 The text is a human–AI collaboration, as the AI Disclaimer at the front of this book already admits.
 
-The web edition is built with MyST; the PDF edition with Typst. Source and history: [github.com/brockwebb/book_responsible_ai](https://github.com/brockwebb/book_responsible_ai).
+The web edition is built with MyST; the PDF edition with Typst. This edition is archived as DOI [10.5281/zenodo.21983981](https://doi.org/10.5281/zenodo.21983981).
+
+Read online: [brockwebb.github.io/book_responsible_ai](https://brockwebb.github.io/book_responsible_ai/) · Source and history: [github.com/brockwebb/book_responsible_ai](https://github.com/brockwebb/book_responsible_ai).
