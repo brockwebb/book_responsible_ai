@@ -2,13 +2,13 @@
 
 ## Afterword
 
-If you've made it this far, congratulations — you've been slowly pulled over to the dark side: seeing responsible AI as an enabler rather than a blocker.
+If you've made it this far, you already know the truth behind the satire: responsible AI matters. It works best as an enabler — focused on outcomes, not performances of concern.
 
-Because here's the truth behind the satire: Responsible AI is crucial. But it works best when it enables innovation rather than suffocates it, focuses on outcomes rather than performance, and acknowledges that progress requires caution and courage.
+Everything in moderation, including moderation. There will be risk. There will be accidents and unintended consequences. These are reasons to pay attention — not excuses to do nothing.
 
-The greatest irony? The organizations making the most meaningful ethical progress with AI rarely have the most committees, frameworks, or public pronouncements. They're building, testing, learning, and improving — treating responsible AI as an ongoing practice, not a permanent roadblock.
+The honest problem is that we don't know what we don't know, and no exhaustive list of what-ifs will fix that. The only way out is through: build, test, learn, improve. Discovery teaches what speculation never will.
 
-So laugh at our alphabet of overresponsibility. Then get out there and build something wonderfully responsible (but do it responsibly).
+So laugh at our alphabet of overresponsibility. Then go make meaningful progress — and don't let too much responsibility get in the way.
 
 ---
 
@@ -80,7 +80,7 @@ Use this handbook wisely, or more likely, use it to justify doing absolutely not
 
 ## Colophon
 
-This book was written and illustrated in April 2025 and published in 2026. The gap is deliberate: the work is presented as it was made, a snapshot of that moment, unrevised.
+This book was written and illustrated in April 2025 — a line in the sand, drawn on purpose. Whether it ages like wine, rots on schedule, or persists like a Twinkie through the AI apocalypse is left as an exercise for the future. The work is presented as it was made, a snapshot of that moment, unrevised.
 
 The illustrations were generated with OpenAI's ChatGPT image tooling of that era, with the text rendered directly in the images. They have deliberately not been regenerated with newer models; their quirks, including the occasional mangled word, are part of the record.
 

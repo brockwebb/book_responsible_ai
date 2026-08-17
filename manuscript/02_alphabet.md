@@ -51,7 +51,7 @@ Each entry pairs a koan with its illustration. The koan sits on the left-facing 
 
 <!-- color: e_facer.png | lineart: e_lineart.png -->
 
-> "Explain how you see," said the auditor to the eye. The eye blinked. The auditor wrote: "Non-compliant."
+> "Explain how you see," said the auditor to the eye. The eye just blinked and stared. The auditor wrote: "Non-compliant."
 
 **E is for Explainability** — You must clearly articulate how your model works, even though the researchers themselves have no clue.
 

@@ -59,15 +59,23 @@
 #pagebreak(weak: true)
 #heading(level: 1, outlined: true)[Table of Contents]
 #let find-id(ids, prefix) = ids.find(id => id.starts-with(prefix))
-#let dot = [#h(0.4em) · #h(0.4em)]
-#block(inset: (y: 0.5em))[
-  #jump("sec-" + find-id(map.front, "foreword"))[Foreword] #dot
-  #jump("sec-" + find-id(map.front, "author_s_note"))[Author's Note] #dot
-  #jump("grid-index")[The Alphabet] #dot
-  #jump("sec-" + find-id(map.back, "afterword"))[Afterword] #dot
-  #jump("sec-" + find-id(map.back, "the_abbreviated_compendium"))[The Abbreviated Compendium] #dot
-  #jump("coloring-section")[Coloring Pages]
-]
+// Real TOC entry: leader dots + the actual page number, whole row linked.
+#let toc-entry(name, title) = context {
+  let hits = query(metadata.where(value: name))
+  if hits.len() > 0 {
+    let loc = hits.first().location()
+    let pg = counter(page).at(loc).first()
+    block(inset: (y: 0.45em), width: 100%,
+      link(loc)[#title #box(width: 1fr, repeat(gap: 4pt)[.]) #pg])
+  } else { block(title) }
+}
+#v(0.5em)
+#toc-entry("sec-" + find-id(map.front, "foreword"), [Foreword])
+#toc-entry("sec-" + find-id(map.front, "author_s_note"), [Author's Note])
+#toc-entry("grid-index", [The Alphabet])
+#toc-entry("sec-" + find-id(map.back, "afterword"), [Afterword])
+#toc-entry("sec-" + find-id(map.back, "the_abbreviated_compendium"), [The Abbreviated Compendium])
+#toc-entry("coloring-section", [Coloring Pages])
 
 #pagebreak(weak: true)
 #include "/pdf/_generated/front_post_toc.typ"
@@ -76,17 +84,23 @@
 #pagebreak()
 #anchor("grid-index")
 #heading(level: 1, outlined: true)[The Alphabet]
-#v(0.5in)
-#align(center)[
+// Reusable letter grid — the coloring section opens with the same component.
+#let letter-grid(prefix, cell: 1.15in, size: 46pt) = align(center)[
   #grid(
-    columns: (1.15in,) * 5,
-    rows: (1.15in,) * 6,
+    columns: (cell,) * 5,
+    rows: (cell,) * 6,
     ..map.letters.map(l => align(center + horizon, jump(
-      "letter-" + l.letter,
-      text(size: 46pt, weight: "bold", fill: accent, l.letter),
+      prefix + l.letter,
+      text(size: size, weight: "bold", fill: accent, l.letter),
     ))),
   )
 ]
+#text(style: "italic", size: 10.5pt, fill: luma(30%))[
+  Select any letter below to be transported directly to its designated instructional
+  unit. All navigation pathways have been risk-assessed and approved for your safety.
+]
+#v(0.35in)
+#letter-grid("letter-")
 
 // ————— The 26 letter pages: landscape, poster left, koan right —————
 #set page(flipped: true, margin: 0pt, numbering: none, footer: none)
@@ -105,8 +119,15 @@
       // is the loud layer; this is the quiet layer.
       align(center + horizon,
         pad(x: 0.85in, {
-          set par(justify: false)
-          text(size: 17pt, style: "italic", l.koan)
+          // Ragged-centered, globally optimized breaks, and the final two words
+          // bound with a no-break space (template-side) so no koan ends on a
+          // single-word line.
+          set par(justify: false, linebreaks: "optimized")
+          let parts = l.koan.split(" ")
+          let bound = if parts.len() > 1 {
+            parts.slice(0, parts.len() - 1).join(" ") + "\u{00a0}" + parts.last()
+          } else { l.koan }
+          text(size: 17pt, style: "italic", bound)
         })),
     )
     // Small page furniture on the quiet half: page number + home link.
@@ -127,11 +148,32 @@
 #anchor("coloring-section")
 #heading(level: 1, outlined: true)[Coloring Pages]
 #include "/pdf/_generated/coloring_intro.typ"
+// The section's own linked grid — same component, targets the coloring pages.
+#v(0.25in)
+#letter-grid("coloring-", cell: 1in, size: 40pt)
 
 #set page(margin: 0.35in, numbering: none, footer: none)
 #for l in map.letters [
   #page[
+    #anchor("coloring-" + l.letter)
     #bookmark(2, "Coloring: " + l.letter + " — " + l.title)
     #align(center + horizon, image("/" + l.lineart, height: 100%, fit: "contain"))
+  ]
+]
+
+// ————— Final page —————
+#set page(margin: (x: 1.1in, y: 1in), numbering: none, footer: none)
+#page[
+  #align(center + horizon)[
+    #text(size: 16pt, tracking: 2pt)[THIS PAGE INTENTIONALLY LEFT BLANK]
+    #v(2.2em)
+    #block(width: 4.4in,
+      text(size: 9.5pt, style: "italic", fill: luma(28%))[
+        Upon review, the Committee finds the above statement renders this page
+        non-blank. A remediation plan is under development. Estimated completion:
+        eventually.
+      ])
+    #v(3em)
+    #text(size: 12pt, tracking: 1.5pt)[THE END (pending final approval)]
   ]
 ]

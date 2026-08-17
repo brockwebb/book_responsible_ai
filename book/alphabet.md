@@ -65,7 +65,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition â€
 **E is for Explainability** â€” You must clearly articulate how your model works, even though the researchers themselves have no clue.
 ```
 
-> "Explain how you see," said the auditor to the eye. The eye blinked. The auditor wrote: "Non-compliant."
+> "Explain how you see," said the auditor to the eye. The eye just blinked and stared. The auditor wrote: "Non-compliant."
 
 ---
 
