@@ -75,8 +75,10 @@ means changing both.
   **Verified working 2026-08-17** — 5 pages (`index`, `front-matter`, `alphabet`, `back-matter`,
   `coloring-pages`), all 60 images resolved, no errors. Output is ~183 MB, dominated by the art.
 - PDF export: `myst build --typst` → `book/exports/` (target filename: `overresponsible-ai-handbook.pdf`, per README). **Not yet run** — see Open Items.
-- GitHub Pages: `.github/workflows/deploy.yml` deploys on push to `main`. Pages source must be
-  "GitHub Actions" (not "Deploy from a branch"); set via
+- GitHub Pages: **live at https://brockwebb.github.io/book_responsible_ai/** —
+  `.github/workflows/deploy.yml` deploys on push to `main`, confirmed working 2026-08-17
+  (first run green, all 5 pages HTTP 200, images serving). Pages source must be
+  "GitHub Actions", not "Deploy from a branch"; already set, and settable from the CLI via
   `gh api -X POST repos/brockwebb/book_responsible_ai/pages -f build_type=workflow`.
 - Config: `book/myst.yml`
 - **Version drift:** local `myst` is v1.8.2; CI runs `npm install -g mystmd`, i.e. latest (v1.10.1
