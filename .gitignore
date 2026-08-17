@@ -40,6 +40,12 @@ audits/
 # Old/rejected art variants — not used in the book, not tracked
 arc/
 
+# Local master art corpus — NOT published content. Lossless originals kept in
+# case resolution/re-encoding work is ever redone. book/images/ is the only
+# committed art (derived, web/PDF-weight copies). Art changes touch
+# book/images/ only; regenerate from these masters when needed.
+assets/
+
 # Working docs (not for public repo)
 /docs/
 

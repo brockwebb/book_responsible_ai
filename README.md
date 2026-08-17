@@ -22,16 +22,15 @@ book_responsible_ai/
 ├── book/               # MyST publishing project (the buildable book)
 │   ├── myst.yml         # Book config / table of contents
 │   ├── cover.md, front-matter.md, alphabet.md, back-matter.md, coloring-pages.md
-│   ├── images/           # Final selected art used in the book (facer + lineart)
+│   ├── images/           # THE published art — facer + lineart, web/PDF weight
 │   └── exports/           # Build output (PDF), not tracked in git
-├── assets/art/          # Selected art corpus (source copies of what the book uses)
-│   ├── facer/              # Color "facer" illustrations (one per letter, final)
-│   ├── lineart/             # Lineart coloring-page illustrations (one per letter, final)
-│   └── cover/                # Cover art master
 └── .github/workflows/    # CI: builds and deploys the MyST web edition
 ```
 
-`arc/` at the repo root holds old/rejected art variants. It's gitignored — not tracked, not published. Every file that made the cut already lives at the top level of `assets/art/` and `book/images/`; `arc/` is just a local scratch pile, kept around in case an old variant is ever needed again.
+Two directories at the repo root are gitignored and exist only on the author's machine:
+
+- **`assets/`** — the master art corpus: clean lossless originals, kept so resolution or re-encoding work can be redone from source. Not published content. `book/images/` holds the derived copies that ship, so art changes touch `book/images/` only.
+- **`arc/`** — old/rejected art variants and `.xcf` sources. A scratch pile, kept in case an old variant is ever wanted again.
 
 ## Building
 

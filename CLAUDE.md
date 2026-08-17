@@ -32,9 +32,9 @@ book_responsible_ai/
 │   ├── images/lineart/         # 26 files, final coloring-page lineart
 │   ├── images/cover.png         # cover art
 │   └── exports/                  # PDF build output (gitignored)
-├── assets/art/            # Source copies of the FINAL selected art (one set, not variants)
-│   ├── facer/                 # 26 files
-│   ├── lineart/                # 26 files
+├── assets/art/            # LOCAL MASTER CORPUS — GITIGNORED, never committed
+│   ├── facer/                 # 26 lossless PNG masters
+│   ├── lineart/                # 26 lossless PNG masters
 │   ├── cover/                   # 1 file (0-OAIH-BookCover.png)
 │   └── archive/                  # empty leftover dir — see Open Items
 ├── arc/                    # 51 old/rejected art variants + .xcf sources — GITIGNORED
@@ -44,10 +44,20 @@ book_responsible_ai/
 ```
 
 `.gitignore` also excludes `audits/`, `/docs/`, `.claude/`, `book/_build/`, and
-`book/exports/*.pdf` — none of those are published. The art in `assets/art/facer|lineart/`
-and `book/images/facer|lineart/` is a byte-identical duplicated set: `assets/` is the
-source-of-truth corpus, `book/images/` is the copy MyST actually builds from. Changing art
-means changing both.
+`book/exports/*.pdf` — none of those are published.
+
+### Art: masters vs. published copies
+
+**`assets/` is not published content and is never committed.** It is the local master
+corpus — clean lossless originals, kept only so resolution or re-encoding work can be
+redone from source. It lives on this machine and in the backup bundle, not in git.
+
+**`book/images/` is the only committed art** — derived, web/PDF-weight copies.
+
+So: **art changes touch `book/images/` only.** Regenerate from the masters in `assets/`
+when a new derivation is needed. The old convention — "`assets/` and `book/images/` must
+stay byte-identical, change both" — is **dead**, superseded 2026-08-17. Do not restore it;
+it is what doubled the repo.
 
 ## Workflow Conventions
 
@@ -60,7 +70,7 @@ means changing both.
 ## Open Items (as of 2026-08-17)
 
 - **Image weight, not image dimensions.** Measured: every PNG is **1024×1536 px** — cover, facer, and lineart alike. That is *modest*, not oversized (about 128 DPI at an 8×10 page), so downsizing pixels is the wrong lever and would visibly hurt. The actual problem is **encoding**: PNG for photographic-style art costs 2.5–3.4 MB per file, ~2 bytes/pixel. The fix is a format change (JPEG/WebP for `facer/`, keep PNG for `lineart/` where flat line art compresses well), which cuts weight ~90% at identical pixel dimensions. Not started. Supersedes the earlier "likely oversized, downsize to 8×10" framing, which was based on file size alone with no dimensions ever measured.
-- **Repo weight.** `assets/` and `book/` are ~130 MB each = ~260 MB committed, and they hold the *same* bytes twice (verified identical). Fine for GitHub, but pushes are slow and the duplication doubles the cost of every art change. Resolving the encoding item above fixes most of this.
+- **Repo weight.** Addressed 2026-08-17: `assets/` (~130 MB) is now gitignored, so the committed art is `book/images/` only. See the masters-vs-published-copies section above.
 - **Typst PDF export untested.** `myst build --typst` has never been run against this content — the `plain_typst_book` template and the `cover:` key in `book/myst.yml` are unverified.
 
 **Closed:**
