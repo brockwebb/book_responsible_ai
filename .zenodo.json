@@ -1,0 +1,38 @@
+{
+  "upload_type": "publication",
+  "publication_type": "book",
+  "title": "The Overresponsible AI Handbook: An Alphabetical Guide to Doing Nothing, Responsibly",
+  "creators": [
+    {
+      "name": "Webb, Brock"
+    }
+  ],
+  "description": "A satirical A-to-Z alphabet book on AI governance theater: twenty-six letters, each pairing a koan, a full-page illustration, and a one-line definition, with a bonus section of twenty-six coloring pages. Written and illustrated in April 2025 and presented as it was made, the book skewers what happens when responsible-AI practice curdles into pure process, while its front and back matter make the sincere case underneath the satire.",
+  "license": "cc-by-4.0",
+  "publication_date": "2026-08-17",
+  "dates": [
+    {
+      "type": "created",
+      "date": "2025-04"
+    }
+  ],
+  "keywords": [
+    "responsible AI",
+    "AI governance",
+    "satire",
+    "AI ethics",
+    "alphabet book"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/brockwebb/book_responsible_ai",
+      "relation": "isDerivedFrom",
+      "resource_type": "software"
+    },
+    {
+      "identifier": "https://brockwebb.github.io/book_responsible_ai/",
+      "relation": "isVariantFormOf",
+      "resource_type": "publication-book"
+    }
+  ]
+}

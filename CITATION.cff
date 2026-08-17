@@ -1,0 +1,25 @@
+# CITATION.cff — powers GitHub's "Cite this repository" box.
+cff-version: 1.2.0
+message: "If you use or cite this book, please cite it as below."
+type: generic
+title: "The Overresponsible AI Handbook: An Alphabetical Guide to Doing Nothing, Responsibly"
+authors:
+  - family-names: Webb
+    given-names: Brock
+license: CC-BY-4.0
+date-released: "2026-08-17"
+url: "https://brockwebb.github.io/book_responsible_ai/"
+repository-code: "https://github.com/brockwebb/book_responsible_ai"
+keywords:
+  - responsible AI
+  - AI governance
+  - satire
+  - AI ethics
+  - alphabet book
+abstract: >-
+  A satirical A-to-Z alphabet book on AI governance theater, written and
+  illustrated in April 2025. Twenty-six letters, each pairing a koan, a
+  full-page illustration, and a one-line definition, plus twenty-six coloring
+  pages.
+# TODO(doi-backfill): uncomment once the Zenodo DOI is minted
+# doi: 10.5281/zenodo.XXXXXXX
