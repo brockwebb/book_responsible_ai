@@ -6,7 +6,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition â€
 
 ## A is for Alignment
 
-```{image} images/facer/a_facer.png
+```{image} images/facer/a_facer.jpg
 :alt: A is for Alignment â€” illustration
 :width: 100%
 ```
@@ -19,7 +19,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition â€
 
 ## B is for Bias
 
-```{image} images/facer/b_facer.png
+```{image} images/facer/b_facer.jpg
 :alt: B is for Bias â€” illustration
 :width: 100%
 ```
@@ -32,7 +32,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition â€
 
 ## C is for Checklists
 
-```{image} images/facer/c_facer.png
+```{image} images/facer/c_facer.jpg
 :alt: C is for Checklists â€” illustration
 :width: 100%
 ```
@@ -45,7 +45,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition â€
 
 ## D is for Doubt
 
-```{image} images/facer/d_facer.png
+```{image} images/facer/d_facer.jpg
 :alt: D is for Doubt â€” illustration
 :width: 100%
 ```
@@ -58,7 +58,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition â€
 
 ## E is for Explainability
 
-```{image} images/facer/e_facer.png
+```{image} images/facer/e_facer.jpg
 :alt: E is for Explainability â€” illustration
 :width: 100%
 ```
@@ -71,7 +71,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition â€
 
 ## F is for Fear
 
-```{image} images/facer/f_facer.png
+```{image} images/facer/f_facer.jpg
 :alt: F is for Fear â€” illustration
 :width: 100%
 ```
@@ -84,7 +84,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition â€
 
 ## G is for Governance
 
-```{image} images/facer/g_facer.png
+```{image} images/facer/g_facer.jpg
 :alt: G is for Governance â€” illustration
 :width: 100%
 ```
@@ -97,7 +97,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition â€
 
 ## H is for Harm
 
-```{image} images/facer/h_facer.png
+```{image} images/facer/h_facer.jpg
 :alt: H is for Harm â€” illustration
 :width: 100%
 ```
@@ -110,7 +110,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition â€
 
 ## I is for Impact Assessments
 
-```{image} images/facer/i_facer.png
+```{image} images/facer/i_facer.jpg
 :alt: I is for Impact Assessments â€” illustration
 :width: 100%
 ```
@@ -123,7 +123,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition â€
 
 ## J is for Justification
 
-```{image} images/facer/j_facer.png
+```{image} images/facer/j_facer.jpg
 :alt: J is for Justification â€” illustration
 :width: 100%
 ```
@@ -136,7 +136,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition â€
 
 ## K is for Kill Switches
 
-```{image} images/facer/k_facer.png
+```{image} images/facer/k_facer.jpg
 :alt: K is for Kill Switches â€” illustration
 :width: 100%
 ```
@@ -149,7 +149,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition â€
 
 ## L is for LLMs
 
-```{image} images/facer/l_facer.png
+```{image} images/facer/l_facer.jpg
 :alt: L is for LLMs â€” illustration
 :width: 100%
 ```
@@ -162,7 +162,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition â€
 
 ## M is for Model Review
 
-```{image} images/facer/m_facer.png
+```{image} images/facer/m_facer.jpg
 :alt: M is for Model Review â€” illustration
 :width: 100%
 ```
@@ -175,7 +175,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition â€
 
 ## N is for Negation
 
-```{image} images/facer/n_facer.png
+```{image} images/facer/n_facer.jpg
 :alt: N is for Negation â€” illustration
 :width: 100%
 ```
@@ -188,7 +188,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition â€
 
 ## O is for Oversight
 
-```{image} images/facer/o_facer.png
+```{image} images/facer/o_facer.jpg
 :alt: O is for Oversight â€” illustration
 :width: 100%
 ```
@@ -201,7 +201,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition â€
 
 ## P is for Process
 
-```{image} images/facer/p_facer.png
+```{image} images/facer/p_facer.jpg
 :alt: P is for Process â€” illustration
 :width: 100%
 ```
@@ -214,7 +214,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition â€
 
 ## Q is for Quantitative Metrics
 
-```{image} images/facer/q_facer.png
+```{image} images/facer/q_facer.jpg
 :alt: Q is for Quantitative Metrics â€” illustration
 :width: 100%
 ```
@@ -227,7 +227,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition â€
 
 ## R is for Responsible Use
 
-```{image} images/facer/r_facer.png
+```{image} images/facer/r_facer.jpg
 :alt: R is for Responsible Use â€” illustration
 :width: 100%
 ```
@@ -240,7 +240,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition â€
 
 ## S is for Stakeholder Theater
 
-```{image} images/facer/s_facer.png
+```{image} images/facer/s_facer.jpg
 :alt: S is for Stakeholder Theater â€” illustration
 :width: 100%
 ```
@@ -253,7 +253,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition â€
 
 ## T is for Transparency
 
-```{image} images/facer/t_facer.png
+```{image} images/facer/t_facer.jpg
 :alt: T is for Transparency â€” illustration
 :width: 100%
 ```
@@ -266,7 +266,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition â€
 
 ## U is for Uncertainty
 
-```{image} images/facer/u_facer.png
+```{image} images/facer/u_facer.jpg
 :alt: U is for Uncertainty â€” illustration
 :width: 100%
 ```
@@ -279,7 +279,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition â€
 
 ## V is for Virtue Signaling
 
-```{image} images/facer/v_facer.png
+```{image} images/facer/v_facer.jpg
 :alt: V is for Virtue Signaling â€” illustration
 :width: 100%
 ```
@@ -292,7 +292,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition â€
 
 ## W is for Watchdogs
 
-```{image} images/facer/w_facer.png
+```{image} images/facer/w_facer.jpg
 :alt: W is for Watchdogs â€” illustration
 :width: 100%
 ```
@@ -305,7 +305,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition â€
 
 ## X is for X-Risk
 
-```{image} images/facer/x_facer.png
+```{image} images/facer/x_facer.jpg
 :alt: X is for X-Risk â€” illustration
 :width: 100%
 ```
@@ -318,7 +318,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition â€
 
 ## Y is for Yes Culture
 
-```{image} images/facer/y_facer.png
+```{image} images/facer/y_facer.jpg
 :alt: Y is for Yes Culture â€” illustration
 :width: 100%
 ```
@@ -331,7 +331,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition â€
 
 ## Z is for Zero (AI)
 
-```{image} images/facer/z_facer.png
+```{image} images/facer/z_facer.jpg
 :alt: Z is for Zero (AI) â€” illustration
 :width: 100%
 ```
