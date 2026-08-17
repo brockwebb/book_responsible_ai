@@ -4,6 +4,8 @@ project:
   subtitle: 'An Alphabetical Guide to Doing Nothing, Responsibly'
   authors:
     - name: Brock Webb
+  license: CC-BY-4.0
+  copyright: '2026 Brock Webb'
   github: brockwebb/book_responsible_ai
   jupyter: false
   exports:

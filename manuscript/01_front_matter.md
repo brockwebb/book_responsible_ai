@@ -1,5 +1,15 @@
 # Front Matter
 
+## Copyright
+
+*The Overresponsible AI Handbook: An Alphabetical Guide to Doing Nothing, Responsibly*
+
+© 2026 Brock Webb. Licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+You are free to share and adapt this work, including commercially, provided you give appropriate credit, link to the license, and indicate if changes were made.
+
+---
+
 ## AI Disclaimer
 
 This book is a combination of human and machine slop. Get over it.

@@ -9,7 +9,7 @@ It's satire with a straight face underneath — see the Author's Note in the fro
 **Repo:** `brockwebb/book_responsible_ai`
 **Author:** Brock Webb
 **Format:** Ebook-first — PDF edition + a web/GitHub "book" edition (MyST). No print run planned.
-**License:** All rights reserved — no LICENSE file, deliberate (commercial work, unlike the CC-BY `ai-workflow-design`).
+**License:** CC BY 4.0 International — `LICENSE` at repo root holds the full legal code. Same license as the sibling `ai-workflow-design`.
 
 Structural model copied from the sibling repo `/Users/brock/GitHub/ai-workflow-design` (MyST-based book, same `book/`, `assets/`, `.github/workflows/deploy.yml` pattern). Reference it if anything here is ambiguous — it's further along in its build pipeline (has `scripts/build_pdf.py`, `table_map.yaml`, etc.) and its `cc_tasks/`/`handoffs/` history is the model for the conventions below.
 

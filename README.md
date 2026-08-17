@@ -48,4 +48,8 @@ Brock Webb.
 
 ## License
 
-All rights reserved. This is a commercial work in production; no open license has been applied.
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+CC BY 4.0. See [LICENSE](LICENSE).
+
+© 2026 Brock Webb. You may share and adapt this work, including commercially, provided you give appropriate credit, link to the license, and indicate if changes were made.
