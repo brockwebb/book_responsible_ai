@@ -124,19 +124,9 @@ and safe to delete.
 Open work lives in the graph, not in this file — `seldon status` or `seldon briefing`.
 The Open Items section above is narrative context; the graph is authoritative.
 
-**Known Seldon defect — `rebuild` does not round-trip the ontology.** `seldon init` writes
-an `ontology_synced` event, but `seldon rebuild` does not handle that event type and skips
-it (`Unknown event_type 'ontology_synced' — skipped during sync`). A rebuild therefore
-drops the ontology to epoch 0 and `seldon verify` fails the Ontology check. Artifacts and
-tasks survive intact; only the ontology is lost. Recovery is one command:
-
-```bash
-seldon rebuild && seldon ontology sync   # always pair these
-```
-
-Verified on this project 2026-08-17 — rebuild, resync, re-verify, all 7 checks green,
-all 3 ResearchTasks preserved. This is a bug in Seldon itself (`~/Documents/GitHub/seldon`),
-not in this book; it will affect every Seldon project until fixed upstream.
+**`seldon rebuild` round-trips correctly** — fixed upstream in seldon `86b039b`
+(2026-08-17); no paired `ontology sync` is needed. See
+`cc_tasks/2026-08-17_seldon_upstream_ontology_rebuild_fix_RESULT.md`.
 
 Also portability: `shared_ontology.source` in `seldon.yaml` is a machine-specific absolute
 path (`/Users/brock/Documents/GitHub/seldon/ontology`). Fine here — Seldon runs only on
