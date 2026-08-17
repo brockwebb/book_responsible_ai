@@ -75,3 +75,15 @@ Use this handbook wisely, or more likely, use it to justify doing absolutely not
 **Y is for Yes Culture** — Celebrate the mediocrity perfectly achieved through bold consensus. When everyone must agree, action becomes impossible — but at least we all feel included!
 
 **Z is for Zero (AI)** — The perfect responsible model generates exactly nothing. Celebrate the pristine emptiness, the ultimate in ethical achievement: absolute zero functionality. No risk, no harm, no value, and cheerfully, everyone claps for the beautiful void.
+
+---
+
+## Colophon
+
+This book was written and illustrated in April 2025 and published in 2026. The gap is deliberate: the work is presented as it was made, a snapshot of that moment, unrevised.
+
+The illustrations were generated with OpenAI's ChatGPT image tooling of that era, with the text rendered directly in the images. They have deliberately not been regenerated with newer models; their quirks, including the occasional mangled word, are part of the record.
+
+The text is a human–AI collaboration, as the AI Disclaimer at the front of this book already admits.
+
+The web edition is built with MyST; the PDF edition with Typst. Source and history: [github.com/brockwebb/book_responsible_ai](https://github.com/brockwebb/book_responsible_ai).

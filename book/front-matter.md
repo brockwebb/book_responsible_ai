@@ -4,7 +4,7 @@
 
 *The Overresponsible AI Handbook: An Alphabetical Guide to Doing Nothing, Responsibly*
 
-© 2026 Brock Webb. Licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+© 2025 Brock Webb. Licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
 You are free to share and adapt this work, including commercially, provided you give appropriate credit, link to the license, and indicate if changes were made.
 
@@ -65,47 +65,7 @@ Author of *"How to Say No to Everything: An Ethicist's Guide"*
 
 ## Table of Contents
 
-*(Page numbers below refer to the print edition; the web and PDF editions use the navigation in the sidebar.)*
-
-- Foreword – i
-- Praise for The Overresponsible AI Handbook – ii
-- Table of Contents – iii
-- Author's Note – iv
-
-### The Alphabet of Overresponsible AI
-
-- A is for Alignment – 1
-- B is for Bias – 2
-- C is for Checklists – 3
-- D is for Doubt – 4
-- E is for Explainability – 5
-- F is for Fear – 6
-- G is for Governance – 7
-- H is for Harm – 8
-- I is for Impact Assessments – 9
-- J is for Justification – 10
-- K is for Kill Switches – 11
-- L is for LLMs – 12
-- M is for Model Review – 13
-- N is for Negation – 14
-- O is for Oversight – 15
-- P is for Process – 16
-- Q is for Quantitative Metrics – 17
-- R is for Responsible Use – 18
-- S is for Stakeholder Theater – 19
-- T is for Transparency – 20
-- U is for Uncertainty – 21
-- V is for Virtue Signaling – 22
-- W is for Watchdogs – 23
-- X is for X-Risk – 24
-- Y is for Yes Culture – 25
-- Z is for Zero (AI) – 26
-
----
-
-- Afterword – 28
-- The Abbreviated Compendium – 30
-- Coloring Pages – 32
+Foreword · Author's Note · The Alphabet · Afterword · The Abbreviated Compendium · Coloring Pages
 
 ---
 
