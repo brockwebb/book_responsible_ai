@@ -1,7 +1,7 @@
 # The Overresponsible AI Handbook
 
 ```{image} images/cover.jpg
-:alt: The Overresponsible AI Handbook — Book Cover
+:alt: The Overresponsible AI Handbook: Book Cover
 :width: 100%
 ```
 

@@ -1,13 +1,13 @@
 # The Alphabet of Overresponsible AI
 
-Twenty-six entries, each pairing a koan with an illustration and a definition — the field guide to doing nothing, one letter at a time.
+Twenty-six entries, each pairing a koan with an illustration and a definition: the field guide to doing nothing, one letter at a time.
 
 ---
 
 ## A is for Alignment
 
 ```{figure} images/facer/a_facer.jpg
-:alt: A is for Alignment — No one knows what it means, but saying it frequently makes everyone nod in solemn agreement.
+:alt: A is for Alignment: No one knows what it means, but saying it frequently makes everyone nod in solemn agreement.
 :width: 100%
 
 **A is for Alignment** — No one knows what it means, but saying it frequently makes everyone nod in solemn agreement.
@@ -20,20 +20,20 @@ Twenty-six entries, each pairing a koan with an illustration and a definition �
 ## B is for Bias
 
 ```{figure} images/facer/b_facer.jpg
-:alt: B is for Bias — If someone might possibly be offended, stop immediately, form a committee, and downgrade your AI to an expensive calculator.
+:alt: B is for Bias: If someone might possibly be offended, stop immediately, form a committee, and downgrade your AI to an expensive calculator.
 :width: 100%
 
 **B is for Bias** — If someone might possibly be offended, stop immediately, form a committee, and downgrade your AI to an expensive calculator.
 ```
 
-> A gardener found a weed. Then another. Soon he saw weeds everywhere — in the roses, in the soil, in the rain itself. He salted the earth and declared the garden fair.
+> A gardener found a weed. Then another. Soon he saw weeds everywhere: in the roses, in the soil, in the rain itself. He salted the earth and declared the garden fair.
 
 ---
 
 ## C is for Checklists
 
 ```{figure} images/facer/c_facer.jpg
-:alt: C is for Checklists — Your model may fail spectacularly, but you're ethically untouchable if you've checked all the boxes.
+:alt: C is for Checklists: Your model may fail spectacularly, but you're ethically untouchable if you've checked all the boxes.
 :width: 100%
 
 **C is for Checklists** — Your model may fail spectacularly, but you're ethically untouchable if you've checked all the boxes.
@@ -46,7 +46,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition �
 ## D is for Doubt
 
 ```{figure} images/facer/d_facer.jpg
-:alt: D is for Doubt — When data, logic, and evidence shout "launch," keep asking, "But what if…?" Continue until ambition fades completely.
+:alt: D is for Doubt: When data, logic, and evidence shout "launch," keep asking, "But what if…?" Continue until ambition fades completely.
 :width: 100%
 
 **D is for Doubt** — When data, logic, and evidence shout "launch," keep asking, "But what if…?" Continue until ambition fades completely.
@@ -59,7 +59,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition �
 ## E is for Explainability
 
 ```{figure} images/facer/e_facer.jpg
-:alt: E is for Explainability — You must clearly articulate how your model works, even though the researchers themselves have no clue.
+:alt: E is for Explainability: You must clearly articulate how your model works, even though the researchers themselves have no clue.
 :width: 100%
 
 **E is for Explainability** — You must clearly articulate how your model works, even though the researchers themselves have no clue.
@@ -72,7 +72,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition �
 ## F is for Fear
 
 ```{figure} images/facer/f_facer.jpg
-:alt: F is for Fear — Begin by imagining every catastrophe imaginable. Now, wildly inflate its probability. Also, list improbable but exciting disasters, like robot uprisings or AI-written sitcoms.
+:alt: F is for Fear: Begin by imagining every catastrophe imaginable. Now, wildly inflate its probability. Also, list improbable but exciting disasters, like robot uprisings or AI-written sitcoms.
 :width: 100%
 
 **F is for Fear** — Begin by imagining every catastrophe imaginable. Now, wildly inflate its probability. Also, list improbable but exciting disasters, like robot uprisings or AI-written sitcoms.
@@ -85,7 +85,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition �
 ## G is for Governance
 
 ```{figure} images/facer/g_facer.jpg
-:alt: G is for Governance — Infinite meetings, frameworks without end, and regulations crafted to guarantee that no product ever reaches the market.
+:alt: G is for Governance: Infinite meetings, frameworks without end, and regulations crafted to guarantee that no product ever reaches the market.
 :width: 100%
 
 **G is for Governance** — Infinite meetings, frameworks without end, and regulations crafted to guarantee that no product ever reaches the market.
@@ -98,7 +98,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition �
 ## H is for Harm
 
 ```{figure} images/facer/h_facer.jpg
-:alt: H is for Harm — Always presume the absolute worst scenario. Then double it. That's your responsible baseline.
+:alt: H is for Harm: Always presume the absolute worst scenario. Then double it. That's your responsible baseline.
 :width: 100%
 
 **H is for Harm** — Always presume the absolute worst scenario. Then double it. That's your responsible baseline.
@@ -111,7 +111,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition �
 ## I is for Impact Assessments
 
 ```{figure} images/facer/i_facer.jpg
-:alt: I is for Impact Assessments — Endless review cycles, shifting goalposts, and perpetual standards revisions because safety is a journey with no destination.
+:alt: I is for Impact Assessments: Endless review cycles, shifting goalposts, and perpetual standards revisions because safety is a journey with no destination.
 :width: 100%
 
 **I is for Impact Assessments** — Endless review cycles, shifting goalposts, and perpetual standards revisions because safety is a journey with no destination.
@@ -124,7 +124,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition �
 ## J is for Justification
 
 ```{figure} images/facer/j_facer.jpg
-:alt: J is for Justification — Every AI must justify itself through the lenses of equity, justice, intersectionality, and at least five other buzzwords you've recently googled.
+:alt: J is for Justification: Every AI must justify itself through the lenses of equity, justice, intersectionality, and at least five other buzzwords you've recently googled.
 :width: 100%
 
 **J is for Justification** — Every AI must justify itself through the lenses of equity, justice, intersectionality, and at least five other buzzwords you've recently googled.
@@ -137,7 +137,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition �
 ## K is for Kill Switches
 
 ```{figure} images/facer/k_facer.jpg
-:alt: K is for Kill Switches — Any AI clever enough to be useful must be designed with a clearly labeled button for immediate destruction. Safety first!
+:alt: K is for Kill Switches: Any AI clever enough to be useful must be designed with a clearly labeled button for immediate destruction. Safety first!
 :width: 100%
 
 **K is for Kill Switches** — Any AI clever enough to be useful must be designed with a clearly labeled button for immediate destruction. Safety first!
@@ -150,7 +150,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition �
 ## L is for LLMs
 
 ```{figure} images/facer/l_facer.jpg
-:alt: L is for LLMs — Large Looming Monsters. Tame them with rigorous policies, constant argument, and just the right sprinkle of paranoia.
+:alt: L is for LLMs: Large Looming Monsters. Tame them with rigorous policies, constant argument, and just the right sprinkle of paranoia.
 :width: 100%
 
 **L is for LLMs** — Large Looming Monsters. Tame them with rigorous policies, constant argument, and just the right sprinkle of paranoia.
@@ -163,7 +163,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition �
 ## M is for Model Review
 
 ```{figure} images/facer/m_facer.jpg
-:alt: M is for Model Review — Inspect every model for fairness, harm, and bias. Bonus credibility if reviewers have never built a model themselves.
+:alt: M is for Model Review: Inspect every model for fairness, harm, and bias. Bonus credibility if reviewers have never built a model themselves.
 :width: 100%
 
 **M is for Model Review** — Inspect every model for fairness, harm, and bias. Bonus credibility if reviewers have never built a model themselves.
@@ -176,7 +176,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition �
 ## N is for Negation
 
 ```{figure} images/facer/n_facer.jpg
-:alt: N is for Negation — When unsure, always negate. Drafting policy is far safer and more rewarding than actually building tools.
+:alt: N is for Negation: When unsure, always negate. Drafting policy is far safer and more rewarding than actually building tools.
 :width: 100%
 
 **N is for Negation** — When unsure, always negate. Drafting policy is far safer and more rewarding than actually building tools.
@@ -189,10 +189,10 @@ Twenty-six entries, each pairing a koan with an illustration and a definition �
 ## O is for Oversight
 
 ```{figure} images/facer/o_facer.jpg
-:alt: O is for Oversight — Not just governance — it's performance art! Build enough committees and review boards to ensure anything innovative gets watered down into something no one loves but everyone can approve.
+:alt: O is for Oversight: Not just governance. It's performance art! Build enough committees and review boards to ensure anything innovative gets watered down into something no one loves but everyone can approve.
 :width: 100%
 
-**O is for Oversight** — Not just governance — it's performance art! Build enough committees and review boards to ensure anything innovative gets watered down into something no one loves but everyone can approve.
+**O is for Oversight** — Not just governance. It's performance art! Build enough committees and review boards to ensure anything innovative gets watered down into something no one loves but everyone can approve.
 ```
 
 > One hundred eyes watched the candle. None of them were hands. The candle burned out on its own.
@@ -202,7 +202,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition �
 ## P is for Process
 
 ```{figure} images/facer/p_facer.jpg
-:alt: P is for Process — Maximize documentation, signatures, and red tape. Minimize actual progress. Remember: progress is inherently suspicious and requires constant oversight.
+:alt: P is for Process: Maximize documentation, signatures, and red tape. Minimize actual progress. Remember: progress is inherently suspicious and requires constant oversight.
 :width: 100%
 
 **P is for Process** — Maximize documentation, signatures, and red tape. Minimize actual progress. Remember: progress is inherently suspicious and requires constant oversight.
@@ -215,7 +215,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition �
 ## Q is for Quantitative Metrics
 
 ```{figure} images/facer/q_facer.jpg
-:alt: Q is for Quantitative Metrics — Decisions must be data-driven unless that data contradicts your feelings.
+:alt: Q is for Quantitative Metrics: Decisions must be data-driven unless that data contradicts your feelings.
 :width: 100%
 
 **Q is for Quantitative Metrics** — Decisions must be data-driven unless that data contradicts your feelings.
@@ -228,7 +228,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition �
 ## R is for Responsible Use
 
 ```{figure} images/facer/r_facer.jpg
-:alt: R is for Responsible Use — Everyone enthusiastically supports it, but no one can define it, and it's primarily used as ammunition against those who disagree.
+:alt: R is for Responsible Use: Everyone enthusiastically supports it, but no one can define it, and it's primarily used as ammunition against those who disagree.
 :width: 100%
 
 **R is for Responsible Use** — Everyone enthusiastically supports it, but no one can define it, and it's primarily used as ammunition against those who disagree.
@@ -241,7 +241,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition �
 ## S is for Stakeholder Theater
 
 ```{figure} images/facer/s_facer.jpg
-:alt: S is for Stakeholder Theater — Conduct elaborate public consultations featuring people who agree with you to demonstrate your openness.
+:alt: S is for Stakeholder Theater: Conduct elaborate public consultations featuring people who agree with you to demonstrate your openness.
 :width: 100%
 
 **S is for Stakeholder Theater** — Conduct elaborate public consultations featuring people who agree with you to demonstrate your openness.
@@ -254,7 +254,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition �
 ## T is for Transparency
 
 ```{figure} images/facer/t_facer.jpg
-:alt: T is for Transparency — Show us all your data! Now your algorithms! Explainability must be 100%. Checkmate, innovation!
+:alt: T is for Transparency: Show us all your data! Now your algorithms! Explainability must be 100%. Checkmate, innovation!
 :width: 100%
 
 **T is for Transparency** — Show us all your data! Now your algorithms! Explainability must be 100%. Checkmate, innovation!
@@ -267,7 +267,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition �
 ## U is for Uncertainty
 
 ```{figure} images/facer/u_facer.jpg
-:alt: U is for Uncertainty — Even a 0.000001% chance of disaster is a gift. Invent new fears daily and never let an opportunity to say "what if" go to waste.
+:alt: U is for Uncertainty: Even a 0.000001% chance of disaster is a gift. Invent new fears daily and never let an opportunity to say "what if" go to waste.
 :width: 100%
 
 **U is for Uncertainty** — Even a 0.000001% chance of disaster is a gift. Invent new fears daily and never let an opportunity to say "what if" go to waste.
@@ -280,10 +280,10 @@ Twenty-six entries, each pairing a koan with an illustration and a definition �
 ## V is for Virtue Signaling
 
 ```{figure} images/facer/v_facer.jpg
-:alt: V is for Virtue Signaling — It's not about solutions — it's about being seen as morally and ethically superior. No technical experience required.
+:alt: V is for Virtue Signaling: It's not about solutions. It's about being seen as morally and ethically superior. No technical experience required.
 :width: 100%
 
-**V is for Virtue Signaling** — It's not about solutions — it's about being seen as morally and ethically superior. No technical experience required.
+**V is for Virtue Signaling** — It's not about solutions. It's about being seen as morally and ethically superior. No technical experience required.
 ```
 
 > The monk who meditated said nothing. The monk who tweeted about meditating gained ten thousand followers. The temple gave the second monk a promotion.
@@ -293,10 +293,10 @@ Twenty-six entries, each pairing a koan with an illustration and a definition �
 ## W is for Watchdogs
 
 ```{figure} images/facer/w_facer.jpg
-:alt: W is for Watchdogs — True vigilance is mistrust and verify — and verify, and verify again. Raise the alarms but never offer any real solution.
+:alt: W is for Watchdogs: True vigilance is mistrust and verify, and verify, and verify again. Raise the alarms but never offer any real solution.
 :width: 100%
 
-**W is for Watchdogs** — True vigilance is mistrust and verify — and verify, and verify again. Raise the alarms but never offer any real solution.
+**W is for Watchdogs** — True vigilance is mistrust and verify, and verify, and verify again. Raise the alarms but never offer any real solution.
 ```
 
 > The watchdog barked at the mailman. Then the wind. Then its own shadow. When the wolf finally came, no one was listening anymore.
@@ -306,7 +306,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition �
 ## X is for X-Risk
 
 ```{figure} images/facer/x_facer.jpg
-:alt: X is for X-Risk — When progress knocks, strike it out first. After all, innovation can't happen if everyone's busy surviving imaginary apocalypses.
+:alt: X is for X-Risk: When progress knocks, strike it out first. After all, innovation can't happen if everyone's busy surviving imaginary apocalypses.
 :width: 100%
 
 **X is for X-Risk** — When progress knocks, strike it out first. After all, innovation can't happen if everyone's busy surviving imaginary apocalypses.
@@ -319,10 +319,10 @@ Twenty-six entries, each pairing a koan with an illustration and a definition �
 ## Y is for Yes Culture
 
 ```{figure} images/facer/y_facer.jpg
-:alt: Y is for Yes Culture — Celebrate the mediocrity perfectly achieved through bold consensus. When everyone must agree, action becomes impossible — but at least we all feel included!
+:alt: Y is for Yes Culture: Celebrate the mediocrity perfectly achieved through bold consensus. When everyone must agree, action becomes impossible, but at least we all feel included!
 :width: 100%
 
-**Y is for Yes Culture** — Celebrate the mediocrity perfectly achieved through bold consensus. When everyone must agree, action becomes impossible — but at least we all feel included!
+**Y is for Yes Culture** — Celebrate the mediocrity perfectly achieved through bold consensus. When everyone must agree, action becomes impossible, but at least we all feel included!
 ```
 
 > Everyone agreed. On what, no one could say. But the agreement was unanimous, the feeling was warm, and the motion to do nothing passed without objection.
@@ -332,7 +332,7 @@ Twenty-six entries, each pairing a koan with an illustration and a definition �
 ## Z is for Zero (AI)
 
 ```{figure} images/facer/z_facer.jpg
-:alt: Z is for Zero (AI) — The perfect responsible model generates exactly nothing. Celebrate the pristine emptiness, the ultimate in ethical achievement: absolute zero functionality. No risk, no harm, no value, and cheerfully, everyone claps for the beautiful void.
+:alt: Z is for Zero (AI): The perfect responsible model generates exactly nothing. Celebrate the pristine emptiness, the ultimate in ethical achievement: absolute zero functionality. No risk, no harm, no value, and cheerfully, everyone claps for the beautiful void.
 :width: 100%
 
 **Z is for Zero (AI)** — The perfect responsible model generates exactly nothing. Celebrate the pristine emptiness, the ultimate in ethical achievement: absolute zero functionality. No risk, no harm, no value, and cheerfully, everyone claps for the beautiful void.

@@ -21,7 +21,7 @@ Each entry pairs a koan with its illustration. The koan sits on the left-facing 
 
 <!-- color: b_facer.png | lineart: b_colorpage.png -->
 
-> A gardener found a weed. Then another. Soon he saw weeds everywhere — in the roses, in the soil, in the rain itself. He salted the earth and declared the garden fair.
+> A gardener found a weed. Then another. Soon he saw weeds everywhere: in the roses, in the soil, in the rain itself. He salted the earth and declared the garden fair.
 
 **B is for Bias** — If someone might possibly be offended, stop immediately, form a committee, and downgrade your AI to an expensive calculator.
 
@@ -153,7 +153,7 @@ Each entry pairs a koan with its illustration. The koan sits on the left-facing 
 
 > One hundred eyes watched the candle. None of them were hands. The candle burned out on its own.
 
-**O is for Oversight** — Not just governance — it's performance art! Build enough committees and review boards to ensure anything innovative gets watered down into something no one loves but everyone can approve.
+**O is for Oversight** — Not just governance. It's performance art! Build enough committees and review boards to ensure anything innovative gets watered down into something no one loves but everyone can approve.
 
 ---
 
@@ -223,7 +223,7 @@ Each entry pairs a koan with its illustration. The koan sits on the left-facing 
 
 > The monk who meditated said nothing. The monk who tweeted about meditating gained ten thousand followers. The temple gave the second monk a promotion.
 
-**V is for Virtue Signaling** — It's not about solutions — it's about being seen as morally and ethically superior. No technical experience required.
+**V is for Virtue Signaling** — It's not about solutions. It's about being seen as morally and ethically superior. No technical experience required.
 
 ---
 
@@ -233,7 +233,7 @@ Each entry pairs a koan with its illustration. The koan sits on the left-facing 
 
 > The watchdog barked at the mailman. Then the wind. Then its own shadow. When the wolf finally came, no one was listening anymore.
 
-**W is for Watchdogs** — True vigilance is mistrust and verify — and verify, and verify again. Raise the alarms but never offer any real solution.
+**W is for Watchdogs** — True vigilance is mistrust and verify, and verify, and verify again. Raise the alarms but never offer any real solution.
 
 ---
 
@@ -253,7 +253,7 @@ Each entry pairs a koan with its illustration. The koan sits on the left-facing 
 
 > Everyone agreed. On what, no one could say. But the agreement was unanimous, the feeling was warm, and the motion to do nothing passed without objection.
 
-**Y is for Yes Culture** — Celebrate the mediocrity perfectly achieved through bold consensus. When everyone must agree, action becomes impossible — but at least we all feel included!
+**Y is for Yes Culture** — Celebrate the mediocrity perfectly achieved through bold consensus. When everyone must agree, action becomes impossible, but at least we all feel included!
 
 ---
 
