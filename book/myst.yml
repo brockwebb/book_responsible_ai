@@ -8,11 +8,12 @@ project:
   copyright: '2026 Brock Webb'
   github: brockwebb/book_responsible_ai
   jupyter: false
-  exports:
-    - format: typst
-      template: plain_typst_book
-      output: exports/overresponsible-ai-handbook.pdf
-      cover: images/cover.jpg
+  # No exports block, deliberately. The PDF has exactly one build path:
+  # scripts/build_pdf.sh (standalone Typst via book/pdf/main.typ + book_map.yaml).
+  # The MyST typst export was removed because it flattened the book into a
+  # numbered-article template and could not express the real layout — mixed
+  # portrait/landscape, full-bleed posters, letter-grid navigation. Two PDF
+  # paths would mean two divergent books.
   toc:
     - file: cover.md
     - file: front-matter.md

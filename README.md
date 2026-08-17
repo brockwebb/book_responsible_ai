@@ -36,10 +36,16 @@ Two directories at the repo root are gitignored and exist only on the author's m
 
 ```bash
 npm install -g mystmd
-cd book
-myst build --html     # web edition
-myst build --typst    # PDF edition (exports/overresponsible-ai-handbook.pdf)
+cd book && myst build --html   # web edition
+
+./scripts/build_pdf.sh         # PDF edition (book/exports/overresponsible-ai-handbook.pdf)
+                               # requires: typst, pandoc, python3 + PyYAML
 ```
+
+The PDF is a standalone Typst book (`book/pdf/main.typ`) driven by a generated
+document map (`scripts/build_map.py` → `book/book_map.yaml`), not a MyST export —
+the book's layout (landscape letter spreads, full-bleed posters, letter-grid
+navigation) needs a real template. One PDF path only.
 
 ## Author
 
