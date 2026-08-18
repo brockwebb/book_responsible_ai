@@ -2,6 +2,10 @@
 
 Twenty-six entries, each pairing a koan with an illustration and a definition: the field guide to doing nothing, one letter at a time.
 
+*Select any letter below to be transported directly to its designated instructional unit. All navigation pathways have been risk-assessed and approved for your safety.*
+
+[**A**](#a-is-for-alignment) · [**B**](#b-is-for-bias) · [**C**](#c-is-for-checklists) · [**D**](#d-is-for-doubt) · [**E**](#e-is-for-explainability) · [**F**](#f-is-for-fear) · [**G**](#g-is-for-governance) · [**H**](#h-is-for-harm) · [**I**](#i-is-for-impact-assessments) · [**J**](#j-is-for-justification) · [**K**](#k-is-for-kill-switches) · [**L**](#l-is-for-llms) · [**M**](#m-is-for-model-review) · [**N**](#n-is-for-negation) · [**O**](#o-is-for-oversight) · [**P**](#p-is-for-process) · [**Q**](#q-is-for-quantitative-metrics) · [**R**](#r-is-for-responsible-use) · [**S**](#s-is-for-stakeholder-theater) · [**T**](#t-is-for-transparency) · [**U**](#u-is-for-uncertainty) · [**V**](#v-is-for-virtue-signaling) · [**W**](#w-is-for-watchdogs) · [**X**](#x-is-for-x-risk) · [**Y**](#y-is-for-yes-culture) · [**Z**](#z-is-for-zero-ai)
+
 ---
 
 ## A is for Alignment

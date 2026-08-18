@@ -1,5 +1,8 @@
 # Art Selections
 
+> **FROZEN 2026-08-18** — editorial working copy, superseded by `book/`.
+> Do not edit; `book/` is the sole source of truth.
+
 **Status: final.** Selection was already made — whatever sat at the root of the original project folder (now `assets/art/facer/` and `assets/art/lineart/`, and mirrored into `book/images/`) is the chosen art for each letter. Everything else was already set aside in `arc/`, which is gitignored and not part of the published book.
 
 | Letter | Color Facer | Lineart |

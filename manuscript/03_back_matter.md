@@ -1,5 +1,8 @@
 # Back Matter
 
+> **FROZEN 2026-08-18** — editorial working copy, superseded by `book/`.
+> Do not edit; `book/` is the sole source of truth.
+
 ## Afterword
 
 If you've made it this far, you already know the truth behind the satire: responsible AI matters. It works best as an enabler, focused on outcomes rather than performances of concern.

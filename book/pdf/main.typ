@@ -45,9 +45,19 @@
 // The art is 2:3; US Letter is 0.773. fit "cover" would crop the title and
 // tagline off the art, so: contain, on a page filled with the art's own edge
 // color (sampled #E8C690): reads as full-bleed without losing a pixel.
+// Author attribution lives in a reserved bottom band of the fill (the image
+// itself is untouched): letterspaced Baskerville in the title's own ink,
+// sampled #2D2419 from the cover art.
 #page(margin: 0pt, footer: none, fill: rgb("#E8C690"))[
-  #align(center + horizon,
-    image("/images/cover.jpg", width: 100%, height: 100%, fit: "contain"))
+  #grid(
+    columns: 100%,
+    rows: (1fr, 0.72in),
+    align(center + horizon,
+      image("/images/cover.jpg", width: 100%, height: 100%, fit: "contain")),
+    align(center + horizon,
+      text(size: 17pt, weight: "bold", tracking: 4.5pt,
+        fill: rgb("#2D2419"))[BROCK WEBB]),
+  )
 ]
 
 // ===== Front matter (pandoc fragments, TOC rendered natively between them) =====

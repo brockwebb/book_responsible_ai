@@ -1,5 +1,8 @@
 # The Alphabet of Overresponsible AI
 
+> **FROZEN 2026-08-18** — editorial working copy, superseded by `book/`.
+> Do not edit; `book/` is the sole source of truth.
+
 Each entry pairs a koan with its illustration. The koan sits on the left-facing page; the color illustration with its title sits on the right-facing page.
 
 <!-- Art references use the format: color = {letter}_facer.png, lineart = {letter}_lineart.png -->

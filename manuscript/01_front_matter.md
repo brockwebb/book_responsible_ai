@@ -1,5 +1,8 @@
 # Front Matter
 
+> **FROZEN 2026-08-18** — editorial working copy, superseded by `book/`.
+> Do not edit; `book/` is the sole source of truth.
+
 ## Copyright
 
 *The Overresponsible AI Handbook: An Alphabetical Guide to Doing Nothing, Responsibly*

@@ -19,7 +19,7 @@ Structural model copied from the sibling repo `/Users/brock/GitHub/ai-workflow-d
 book_responsible_ai/
 ├── CLAUDE.md              # This file — project context for AI assistants
 ├── README.md              # Public-facing project description
-├── manuscript/            # Source prose — editorial working copy
+├── manuscript/            # FROZEN 2026-08-18 — superseded by book/, do not edit
 │   ├── 01_front_matter.md
 │   ├── 02_alphabet.md
 │   ├── 03_back_matter.md
@@ -66,6 +66,7 @@ it is what doubled the repo.
 - **`handoffs/`** holds one file per session boundary, named `HANDOFF_YYYY-MM-DD_short-description.md` (or `HANDOFF_YYYY-MM-DD-sessionN.md` for same-day multi-session work). Written when a session ends mid-task and the next session (human or Claude) needs the state of play.
 - Both directories are gitignored — they're working scaffolding for whoever (human or Claude) is driving the repo, not published content.
 - **File operations:** read the full file → modify in memory → write the full file back. Don't rely on partial in-place string replacement for anything content-bearing.
+- **`manuscript/` is FROZEN (2026-08-18).** It was the editorial working copy; `book/` is now the sole source of truth. The old mirror-every-content-edit rule is dead — edit `book/*.md` only, never `manuscript/`. Every manuscript file carries a freeze header.
 
 ## Open Items (as of 2026-08-17)
 

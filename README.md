@@ -2,7 +2,7 @@
 
 *An Alphabetical Guide to Doing Nothing, Responsibly*
 
-**Status:** Manuscript complete, art in review, production in progress.
+**Status:** Published. **Read online:** https://brockwebb.github.io/book_responsible_ai/ · **Archived:** [DOI 10.5281/zenodo.21983981](https://doi.org/10.5281/zenodo.21983981) · Source: this repo.
 
 ## What This Is
 
@@ -12,7 +12,7 @@ It is a satire with a straight face underneath it: see the Author's Note in the 
 
 ## Format
 
-This is an ebook-first project — a PDF edition and a web/GitHub "book" edition (built with [MyST](https://mystmd.org)) — no print run planned at this time. Image sizing and resolution are being evaluated for on-screen (not print) delivery.
+This is an ebook-first project: a PDF edition (archived on Zenodo) and a web edition (built with [MyST](https://mystmd.org)). No print run planned at this time.
 
 ## Repository Structure
 
