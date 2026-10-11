@@ -1,0 +1,7 @@
+# AD-036-R4 baseline for book_responsible_ai: every gated design note on book_responsible_ai main when the prior-art gate reached this
+# repository (SQ-010 Part 0, 2026-10-11, main at 72184b47b5b88672bc4d19c75ad1ff1a617d51a0; read from `git ls-files`,
+# so an untracked note is not baseline). These are grandfathered, not re-litigated: the gate
+# (the commit hook, `seldon verify`, `seldon cc register`) applies to a note NOT listed here. Addenda and errata are
+# exempt by glob and not listed. Never extended: a note added after this list needs a passing
+# `seldon prior-art verify`.
+# No gated design note was on main when the gate reached this repository.
